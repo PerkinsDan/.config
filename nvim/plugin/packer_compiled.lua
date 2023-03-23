@@ -178,6 +178,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/dan/.local/share/nvim/site/pack/packer/start/vim-fugitive",
     url = "https://github.com/tpope/vim-fugitive"
+  },
+  ["vim-with-me"] = {
+    loaded = true,
+    path = "/home/dan/.local/share/nvim/site/pack/packer/start/vim-with-me",
+    url = "https://github.com/theprimeagen/vim-with-me"
   }
 }
 
